@@ -128,6 +128,7 @@ else:
         "TFAutoModelForNextSentencePrediction",
         "TFAutoModelForPreTraining",
         "TFAutoModelForQuestionAnswering",
+        "TFAutoModelForSemanticSegmentation",
         "TFAutoModelForSeq2SeqLM",
         "TFAutoModelForSequenceClassification",
         "TFAutoModelForSpeechSeq2Seq",
