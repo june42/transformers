@@ -271,6 +271,7 @@ if TYPE_CHECKING:
             TFAutoModelForNextSentencePrediction,
             TFAutoModelForPreTraining,
             TFAutoModelForQuestionAnswering,
+            TFAutoModelForSemanticSegmentation,
             TFAutoModelForSeq2SeqLM,
             TFAutoModelForSequenceClassification,
             TFAutoModelForSpeechSeq2Seq,
